@@ -1,5 +1,5 @@
-![UCHIHA INTERNATIONAL](https://telegra.ph/file/3b5ec665cd87e169c4cc3.jpg)
-# Shikimori
+![UCHIHA INTERNATIONAL](https://telegra.ph/file/7808565aeea33a43c72e4.jpg)
+# UCHIHA INTERNATIONAL
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)!]
 
 
@@ -152,7 +152,7 @@ through the `/stats` command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-`python3 -m Shikimori`
+`python3 -m UCHIHA INTERNATIONAL`
 
 You can use [nssm](https://nssm.cc/usage) to install the bot as service on windows and set it to restart on /gitpull 
 Make sure to edit the start and restart bats to your needs. 
